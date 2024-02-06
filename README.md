@@ -1,4 +1,4 @@
-# Machine Learning Bot with Bitcoin Data, Technical Indicators, and Logistic Regression
+# Machine Learning Bot with Technical Indicators and Logistic Regression
 
 This README explains a machine learning bot designed to predict optimal times for buying and selling stocks, incorporating a variety of features for enhanced analysis.
 
